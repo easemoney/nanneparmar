@@ -14,6 +14,6 @@ This repository contains various projects related to:
 ## Connect with Me
 - **Website:** [Easemoney](https://easemoney.in/)
 - **GitHub:** [Nanne Parmar](https://github.com/easemoney)
-- **Twitter/X:** [@yourhandle](https://twitter.com/nanneparmarr)
+- **Twitter/X:** [@nanneparmarr](https://twitter.com/nanneparmarr)
 
 Feel free to explore and contribute! 🚀
